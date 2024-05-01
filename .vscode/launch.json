@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TorenderApplication<torender>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.granp.render.torender.TorenderApplication",
+            "projectName": "torender",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
